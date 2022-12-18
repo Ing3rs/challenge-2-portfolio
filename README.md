@@ -17,7 +17,7 @@ To build a portfolio page, which I can add to as the course progresses.
 
 ## Relavant links to final product
 
-* Deployed portfolio: 
+* Deployed portfolio: https://ing3rs.github.io/challenge-2-portfolio/
 * GitHub repository: https://github.com/Ing3rs/challenge-2-portfolio
 
 ## Finised draft in desktop
